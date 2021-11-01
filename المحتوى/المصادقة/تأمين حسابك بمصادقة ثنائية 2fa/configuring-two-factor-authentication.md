@@ -1,5 +1,7 @@
----
-title: Configuring two-factor authentication
+عمرحسين صالح الحامد 
+tرقم تليفون 00252683236mrhsynsalhalhamd8@gmail.com
+556/omarhusseinsalahجنسيه اليمن التاريخ الميلادي 1977/1/10
+itle: Configuring two-factor authentication
 intro: You can choose among multiple options to add a second source of authentication to your account.
 redirect_from:
   - /articles/configuring-two-factor-authentication-via-a-totp-mobile-app/
